@@ -57,13 +57,16 @@ This 2023 countries by population data analysis project provided us with a lot o
 
 Below are some of the graphs generated during the analysis:
 
-_Bar World Population_\n
+##_Bar World Population_ 
+
 ![Bar World Population](World-population/world_pop_projection.png)
 
-_Ukraine Growth_\n
+##_Ukraine Growth_ 
+
 ![Ukraine Growth](World-population/Ukraine_projection.png)
 
-_10 Countries most Growth_\n
+##_10 Countries most Growth_ 
+
 ![10 Countries most Growth](World-population/growth2.png)
 
 ### Contribution
