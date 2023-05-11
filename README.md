@@ -60,11 +60,11 @@ Below are some of the graphs generated during the analysis:
 _Bar World Population_
 ![Bar World Population](World-population/world_pop_projection.png)
 
-_Top 10 on Spotify_
-![Top 10 no Spotify](images/top_10_spotify%20.png)
+_Ukraine Growth_
+![Ukraine Growth](World-population/Ukraine_projection.png)
 
-_Top 10 on YouTube_
-![Top 10 no YouTube](images/top_10_youtube.png)
+_10 Countries most Growth_
+![10 Countries most Growth](World-population/growth2.png)
 
 ### Contribution
 This project is open to contributions and improvements. If you want to contribute, you can fork this repository, create a branch with your changes, and submit a pull request for review.
