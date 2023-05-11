@@ -14,7 +14,7 @@ To run this project, you will need to have Python 3 installed on your computer, 
 ### Instructions
 To run this project, follow these steps:
 
-- Download Spotify and YouTube dataset from Kaggle (https://www.kaggle.com/datasets/thabresh/2023-countries-by-population) and extract the files to a folder on your computer.
+- Download 2023 countries by population dataset from Kaggle (https://www.kaggle.com/datasets/thabresh/2023-countries-by-population) and extract the files to a folder on your computer.
 - Open the "World_Population.ipynb" file in a Jupyter Notebook or Python development environment of your choice.
 - Run notebook cells to load, clean and analyze data.
 
@@ -57,8 +57,8 @@ This 2023 countries by population data analysis project provided us with a lot o
 
 Below are some of the graphs generated during the analysis:
 
-_Dispersion Spotify and Youtube_
-![Dispersão Spotify e Youtube](images/dispers%C3%A3o_spotify_e_youtube.png)
+_Bar World Population_
+![Bar World Population](World-population/world_pop_projection.png)
 
 _Top 10 on Spotify_
 ![Top 10 no Spotify](images/top_10_spotify%20.png)
